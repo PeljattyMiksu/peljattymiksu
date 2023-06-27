@@ -1,0 +1,15 @@
+{
+  "short_name": "Mikael Luukkonen",
+  "name": "Mikael Luukkonen",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 16x16 8x8",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
